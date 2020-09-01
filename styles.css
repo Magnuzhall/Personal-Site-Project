@@ -169,6 +169,20 @@ a.social:hover {
   clear: both;
 }
 
+/* Interests Page CSS Begins */
+
+.tag-interests {
+  margin-top: 150px;
+  background: white;
+  margin-right: 25%;
+  margin-left: 25%;
+}
+.header-interests {
+  background: url('images/background2.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
@@ -205,18 +219,4 @@ a.social:hover {
     margin: 40px auto;
   }
 
-}
-
-/* Interests Page CSS Begins */
-
-.tag-interests {
-  margin-top: 150px;
-  background: white;
-  margin-right: 25%;
-  margin-left: 25%;
-}
-.header-interests {
-  background: url('images/background2.jpg') no-repeat top center ;
-  background-size: cover;
-  overflow: hidden;
 }
